@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://raw.githubusercontent.com/IParraMartin/IParraMartin/main/header.png" width="600" />
+</p>
+
 # Hi there! Welcome to my profile! 🙋🏽‍♂️
 Hi! I'm Iñigo! I am a linguist from Spain (Basque Country), currently studying an MA in the US. I am working on my coding skills to pursue a PhD in Computational Linguistics.
 
