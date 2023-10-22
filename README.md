@@ -28,5 +28,5 @@ There are three main motivations behind my goal:
 <p align="left">
 <a href="https://twitter.com/iparramartin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iparramartin" height="30" width="40" /></a>
 <a href="https://www.instagram.com/inigoparra_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="inigoparra_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/iñigo parra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iñigo parra" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/i%C3%B1igo-parra-0aa741221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iñigo parra" height="30" width="40" /></a>
 </p>
