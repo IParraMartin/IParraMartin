@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=IParraMartin&color=brightgreen)
 
 # Hi there! Welcome to my profile! 🙋🏽‍♂️
-Hi! I'm Iñigo! I am a linguist from Spain (Basque Country), currently studying an MA in the US. I am working on my coding skills to pursue a PhD in Computational Linguistics.
+Hi! I'm Iñigo! I am a linguist from Spain (Basque Country), currently studying for an MA in the US. I am working on my coding skills to pursue a PhD in Computational Linguistics.
 
 ## Why Computational Linguistics?🤔
 There are three main motivations behind my goal:
