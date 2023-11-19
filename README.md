@@ -24,7 +24,7 @@
 </p>
 
 
-<h3 align="center"> Hi, I'm Iñigo, Linguist, Coder 🥷, & Learner 👨‍💻 from Spain (Basque Country) 🇪🇸</h3>
+<h2 align="center"> Hi, I'm Iñigo, Linguist, Coder 🥷, & Learner 👨‍💻 from Spain (Basque Country) 🇪🇸</h2>
 
 <p align="center"> 
   📘 I completed my BA in Modern Languages at the University of Deusto (Bilbao)
@@ -32,7 +32,7 @@
   <br> 🤖 I do research on computational linguistics, NLP, and low-resource languages
 </p>
 
-
+<br></br>
 
 <h2 align="center"> Why Computational Linguistics (CL)?🤔</h2>
 <p align="center">
@@ -41,27 +41,27 @@
   <br>🧠 To explore language in the brain and model it in computers
 </p>
 
-
+<br></br>
 
 <h2 align="center"> Languages and Skills 🛠️💻</h2>
 <p align="center"> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="80" height="80"/>
   <a/>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/>
   <a/>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="80" height="80"/>
   <a/>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="80" height="80"/>
   <a/>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="80" height="80"/>
   <a/>
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.r-project.org/logo/Rlogo.svg" alt="r" width="40" height="40"/>
+    <img src="https://www.r-project.org/logo/Rlogo.svg" alt="r" width="80" height="80"/>
   <a/>
 </p>
 
