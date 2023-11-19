@@ -26,8 +26,18 @@
   <img src="https://raw.githubusercontent.com/IParraMartin/IParraMartin/main/xK.gif" width="1000"/>
 </p>
 
-# Hi there! 🙋🏽‍♂️
-I am a linguist from Spain (Basque Country). I am currently studying for an MA in the US and working on my coding skills to pursue a PhD in computational linguistics.
+
+<p align="center"> 
+  Hi, I'm Iñigo, Linguist, Coder 🥷, & Learner 👨‍💻 from Spain (Basque Country) 🇪🇸
+</p>
+
+
+
+<p align="center"> 
+  <br> 📘 I completed my BA in Modern Languages at the University of Deusto (Bilbao)
+  <br> 📕 I am currently pursuing an MA in Romance Languages Spanish Linguistics 
+  <br> 🤖 I do research on computational linguistics, NLP, and low-resource languages
+</p>
 
 ## Why Computational Linguistics (CL)?🤔
 There are three main motivations behind my goal:
@@ -52,9 +62,10 @@ There are three main motivations behind my goal:
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/logo/Rlogo.svg" alt="r" width="40" height="40"/>
 </p>
 
-[![Inigo’s github stats](https://github-readme-stats.vercel.app/api?username=IParraMartin)](https://github.com/IParraMartin)
+[![Inigo’s GitHub stats](https://github-readme-stats.vercel.app/api?username=IParraMartin)](https://github.com/IParraMartin)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IParraMartin&layout=compact)](https://github.com/IParraMartin)
 
+[![Inigo's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IParraMartin&theme=rogue)](https://github.com/IParraMartin/github-readme-activity-graph)
 ## Connect with me 🤝
 - You can reach me by email (iparra@ua.edu)📫  or my other social media at the top of the page
