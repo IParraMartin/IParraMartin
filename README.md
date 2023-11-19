@@ -1,15 +1,27 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=00F7D7&vCenter=true&random=false&width=1000&height=100&lines=Hi+there!+My+name+is+I%C3%B1igo.;Nice+to+meet+you!;Welcome+to+my+GitHub+account." alt="Typing SVG" /></a>
 
 
-[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IParraMartin)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/i%C3%B1igo-parra-0aa741221/)
-[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/IParraMartin)
-[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@IParra)
-[![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
+<p align="center">
+  <a href="https://github.com/IParraMartin">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/i%C3%B1igo-parra-0aa741221/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/IParraMartin">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://medium.com/@IParra">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+</p>
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/IParraMartin/IParraMartin/main/xK.gif" width="1000" />
+  <img src="https://raw.githubusercontent.com/IParraMartin/IParraMartin/main/xK.gif" width="1000"/>
 </p>
 
 # Hi there! Welcome to my profile! 🙋🏽‍♂️
