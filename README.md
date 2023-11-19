@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/IParraMartin/IParraMartin/main/header.png" width="600" />
+<img src="https://raw.githubusercontent.com/IParraMartin/IParraMartin/main/xK.gif" width="1000" />
 </p>
 
 ![](https://komarev.com/ghpvc/?username=IParraMartin&color=brightgreen)
