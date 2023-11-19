@@ -1,11 +1,14 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=00F7D7&vCenter=true&random=false&width=1000&height=100&lines=Hi+there!+My+name+is+I%C3%B1igo.;Nice+to+meet+you!;Welcome+to+my+GitHub+account." alt="Typing SVG" /></a>
 
 
+![](https://badgen.net/badge/Twitter/Follow/blue?icon=twitter)
+![](https://badgen.net/badge/Medium/Read/white?icon=medium)
+![](https://komarev.com/ghpvc/?username=IParraMartin&color=brightgreen)
+
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/IParraMartin/IParraMartin/main/xK.gif" width="1000" />
 </p>
-
-![](https://komarev.com/ghpvc/?username=IParraMartin&color=brightgreen)
 
 # Hi there! Welcome to my profile! 🙋🏽‍♂️
 Hi! I'm Iñigo! I am a linguist from Spain (Basque Country), currently studying for an MA in the US. I am working on my coding skills to pursue a PhD in Computational Linguistics.
