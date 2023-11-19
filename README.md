@@ -24,10 +24,10 @@
   <img src="https://raw.githubusercontent.com/IParraMartin/IParraMartin/main/xK.gif" width="1000"/>
 </p>
 
-# Hi there! Welcome to my profile! 🙋🏽‍♂️
-Hi! I'm Iñigo! I am a linguist from Spain (Basque Country), currently studying for an MA in the US. I am working on my coding skills to pursue a PhD in Computational Linguistics.
+# Hi there! 🙋🏽‍♂️
+I am a linguist from Spain (Basque Country). I am currently studying for an MA in the US and working on my coding skills to pursue a PhD in computational linguistics.
 
-## Why Computational Linguistics?🤔
+## Why Computational Linguistics (CL)?🤔
 There are three main motivations behind my goal:
 - 👨🏽‍💻 I love linguistics and technology!
 - 🤖 Make AI/ML systems "linguistically inclusive" (let's save the low-resource languages!)
