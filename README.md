@@ -1,9 +1,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=00F7D7&vCenter=true&random=false&width=1000&height=100&lines=Hi+there!+My+name+is+I%C3%B1igo.;Nice+to+meet+you!;Welcome+to+my+GitHub+account." alt="Typing SVG" /></a>
 
 
-![](https://badgen.net/badge/Twitter/Follow/blue?icon=twitter)
-![](https://badgen.net/badge/Medium/Read/white?icon=medium)
-![](https://komarev.com/ghpvc/?username=IParraMartin&color=brightgreen)
+![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
 
 <p align="center">
