@@ -40,7 +40,7 @@ There are three main motivations behind my goal:
 - 📚 I enjoy reading
 - ⚡ Fun fact: I tried to create my own internet router at the age of 10 (it didn't work 😂)
 
-## Languages and Tools 🛠️💻
+## Languages 🛠️💻
 <p align="left"> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
