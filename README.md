@@ -56,6 +56,3 @@ There are three main motivations behind my goal:
 
 ## Connect with me 🤝
 - You can reach me by email (iparra@ua.edu)📫  or my other social media at the top of the page
-
-
-![snake gif](https://github.com/IParraMartin/IParraMartin/blob/output/github-contribution-grid-snake.gif)
