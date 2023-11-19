@@ -32,7 +32,7 @@
   <br> 🤖 I do research on computational linguistics, NLP, and low-resource languages
 </p>
 
-<br></br>
+
 
 <h2 align="center"> Why Computational Linguistics (CL)?🤔</h2>
 <p align="center">
@@ -41,7 +41,7 @@
   <br>🧠 To explore language in the brain and model it in computers
 </p>
 
-<br></br>
+
 
 <h2 align="center"> Languages and Skills 🛠️💻</h2>
 <p align="center"> 
