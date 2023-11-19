@@ -1,12 +1,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=00F7D7&vCenter=true&random=false&width=1000&height=100&lines=Hi+there!+My+name+is+I%C3%B1igo.;Nice+to+meet+you!;Welcome+to+my+GitHub+account." alt="Typing SVG" /></a>
 
 
-![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
-![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
-![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IParraMartin)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/i%C3%B1igo-parra-0aa741221/)
+[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/IParraMartin)
+[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@IParra)
+[![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
 
 
 <p align="center">
@@ -29,7 +28,7 @@ There are three main motivations behind my goal:
 - 📚 I enjoy reading
 - ⚡ Fun fact: I tried to create my own internet router at the age of 10 (it didn't work 😂)
 
-### Languages and Tools 🛠️💻
+## Languages and Tools 🛠️💻
 <p align="left"> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -37,10 +36,13 @@ There are three main motivations behind my goal:
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/logo/Rlogo.svg" alt="r" width="40" height="40"/>
-
 </p>
 
-### Connect with me 🌐
+[![Inigo’s github stats](https://github-readme-stats.vercel.app/api?username=IParraMartin)](https://github.com/IParraMartin)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IParraMartin&layout=compact)](https://github.com/IParraMartin)
+
+## Connect with me 🤝
 - You can reach me by email (iparra@ua.edu)📫  or my other social media below!
 <p align="left">
 <a href="https://twitter.com/iparramartin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iparramartin" height="30" width="40" /></a>
