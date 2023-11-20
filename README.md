@@ -65,6 +65,9 @@
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.r-project.org/logo/Rlogo.svg" alt="r" width="80" height="80"/>
   <a/>
+  <a href="" target="_blank" rel="noreferrer"> 
+    <img src="https://www.svgrepo.com/show/17134/html-file-with-code-symbol.svg" alt="html" width="80" height="80"/>
+  <a/>
 </p>
 
 
