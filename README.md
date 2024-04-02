@@ -29,9 +29,9 @@
 <h2 align="center"> Hi, I'm Iñigo, Linguist, Coder 🥷, & Learner 👨‍💻 from Spain (Basque Country) 🇪🇸</h2>
 
 <p align="center"> 
-  📘 I completed my BA in Modern Languages at the University of Deusto (Bilbao)
-  <br> 📕 I am currently pursuing an MA in Romance Languages Spanish Linguistics
-  <br> 🤖 I do research on computational linguistics, NLP, and low-resource languages
+  <br>I completed my BA in Modern Languages at the University of Deusto (Bilbao)
+  <br>I (recently🎉) completed an MA in Romance Languages and Spanish Linguistics 
+  <br>I research computational linguistics, NLP, and low-resource languages
 </p>
 
 <br></br>
