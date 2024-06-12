@@ -22,63 +22,46 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IParraMartin/IParraMartin/main/xK.gif" width="900"/>
+  <img src="https://raw.githubusercontent.com/IParraMartin/IParraMartin/main/xK.gif" width="800"/>
 </p>
 
 
-<h2 align="center"> Hi, I'm Iñigo, Linguist, Coder 🥷, & Learner 👨‍💻 from Spain (Basque Country) 🇪🇸</h2>
+<h2 align="center"> Hi, I'm Iñigo, welcome to my GitHub page! </h2>
 
-<p align="center"> 
-  <br>I completed my BA in Modern Languages at the University of Deusto (Bilbao)
-  <br>I (recently🎉) completed an MA in Romance Languages and Spanish Linguistics 
-  <br>I research computational linguistics, NLP, and low-resource languages
-</p>
-
-<br></br>
-
-<h2 align="center"> Why Computational Linguistics (CL)?🤔</h2>
-<p align="center">
-  👨🏽‍💻 I love linguistics and technology!
-  <br>🤖 Make AI/ML systems "linguistically inclusive" (let's save the low-resource languages!)
-  <br>🧠 To explore language in the brain and model it in computers
-</p>
-
-<br></br>
-
-<h2 align="center"> Languages and Skills 🛠️💻</h2>
-<p align="center"> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="80" height="80"/>
-  <a/>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/>
-  <a/>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="80" height="80"/>
-  <a/>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="80" height="80"/>
-  <a/>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="80" height="80"/>
-  <a/>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.r-project.org/logo/Rlogo.svg" alt="r" width="80" height="80"/>
-  <a/>
-  <a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1920px-HTML5_logo_and_wordmark.svg.png" alt="html" width="80" height="80"/>
-  <a/>
-</p>
+## About Me
+- I graduated with a BA in Modern Languages (@ University of Deusto)
+- I got an MA in Spanish Linguistics (@ University of Alabama)
+- I am currently pursuing a PhD in Linguistics ( @ UC Berkeley), focusing on computational linguistics, NLP, and cognitive science
 
 
-<br></br>
-[![Inigo's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IParraMartin&theme=rogue)](https://github.com/IParraMartin/github-readme-activity-graph)
-<br></br>
+## Why Computation AND Linguistics? 🤔
+- 👨🏽‍💻 I love linguistics and technology!
+- 🧠 To explore language in the brain and model it in computers
+- 🤖 Make AI/ML systems understand us better (let's save the low-resource languages!)
 
 
-## Some facts about me ✅
+## My Skillset
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" **alt="Anaconda" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original-wordmark.svg" title="Keras" **alt="Keras" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" title="Matplotlib" **alt="Matplotlib" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="Pytorch" **alt="Pytorch" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="Tensorflow" **alt="Tensorflow" width="40" height="40"/>&nbsp;
+</div>
+
+
+## Some facts about me
 - 🎶 In my free time I make music (I play the piano🎹 and the guitar🎸)
 - 👨🏽‍💻 I love learning new things! (that's why I'm here 😉)
 - 🌱 I’m currently learning NLP, ML, and AI
 - 📚 I enjoy reading
 - ⚡ Fun fact: I tried to create my own internet router at the age of 10 (it didn't work 😂)
+
+
+## 🔥 My Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IParraMartin&theme=dark&background=000000)](https://git.io/streak-stats)
+
