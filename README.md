@@ -23,7 +23,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IParraMartin/IParraMartin/main/xK.gif" width="800"/>
+  <img src="https://raw.githubusercontent.com/IParraMartin/IParraMartin/main/xK.gif" width="1000"/>
 </p>
 
 
