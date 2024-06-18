@@ -42,7 +42,7 @@
 </br>
 
 ## 🔥 My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IParraMartin&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IParraMartin&theme=dark)](https://git.io/streak-stats)
 [![Inigo's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=IParraMartin&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/IParraMartin/github-readme-stats#gh-dark-mode-only)
 [![Inigo's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=IParraMartin&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/IParraMartin/github-readme-stats#gh-light-mode-only)
 
