@@ -10,13 +10,6 @@
 
 </br>
 
-## 🤔 Why Computation AND Linguistics?
-- 👨🏽‍💻 I love linguistics and technology!
-- 🧠 To explore language in the brain and model it in computers
-- 🤖 Make AI/ML systems understand us better (let's save the low-resource languages!)
-
-</br>
-
 ## 🛠️ My Skillset
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
