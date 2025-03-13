@@ -1,11 +1,4 @@
-<h1 align="center"> Welcome to my GitHub page! </h1>
-<p align="center"> <img src="https://raw.githubusercontent.com/IParraMartin/IParraMartin/main/resources/new-header.gif" width="1000"/> </p>
-
-</br>
-
 ## 🤗 About Me
-- I graduated with a BA in Modern Languages (@ University of Deusto)
-- I got an MA in Spanish Linguistics (@ University of Alabama)
 - I am currently pursuing a PhD in Linguistics ( @ UC Berkeley), focusing on computational linguistics, NLP, and cognitive science
 
 </br>
